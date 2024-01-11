@@ -45,7 +45,7 @@
 <!-- 
 
 TO DO: Add CRM: Marketo, LiveChat, Salesforce, What else? , Strapi CMS
-<h2 align="left">Customer Relationship Management Systems</h2>
+<h2 align="left">Customer Relationship Management systems & Marketing/Sales Automation (including custom automation via REST API)</h2>
 <p align="left"><a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/></a></p>
 
 <h2 align="left">Content Management Systems</h2>
