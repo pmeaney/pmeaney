@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">A passionate web app/cloud engineer, and marketer, with an interest in organic agriculture, communities, and comedy.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmeaney&show_icons=true&locale=en&layout=compact" alt="pmeaney" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmeaney&show_icons=true&locale=en&layout=compact" alt="pmeaney" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmeaney&show_icons=true&locale=en" alt="pmeaney" /></p> -->
 
