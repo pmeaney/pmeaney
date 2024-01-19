@@ -64,18 +64,39 @@
 ```mermaid
   graph TD;
       subgraph one[Example of how to Interweave three skillsets to enter a new career field]
-        A[Communication Campaign]-->D;
-        B[Event Marketing]-->D;
-        C[Self-study Frontend Development]-->D;
+        A["`Communication Campaign`"]-->D;
+        B["`Event Marketing`"]-->D;
+        C["`Self-study Frontend Development`"]-->D;
       end
-      D[Make web portfolio to demonstrate DigitalMarketing-related Experience & skills]-->E[Digital Marketing Job with Marketo CRM]
+      D["`Make web portfolio to demonstrate Digital Marketing-related Experience & skills`"]-->E["`Digital Marketing Job with Marketo CRM, at SolarWinds`"]
 
       subgraph two[Moving from DigitalMarketing to Web Development]
-        F[Digital Marketing experience Marketo CRM]-->I
-        G[Self-study Full Stack Web Development Skills]-->I
-        H[Data Skills from formal coursework: Statistics, Database Design]-->I
-        I[First Programming Job: Marketing Data Integration with Marketo and LiveChat]
+        F["`Digital Marketing experience Marketo CRM`"]-->I
+        G["`Self-study Full Stack Web Development Skills`"]-->I
+        H["`Data Skills from formal coursework: Statistics, Database Design`"]-->I
+        I["`First Programming Job: Marketing Data Integration with Marketo and LiveChat`"]
+      end
+
+    subgraph three[Sabbatical to build my own Full Stack App in order to demonstrate skillset]
+      I-->J["`Designed & Built Full Stack App - NodeJS, ReactJS, PostgreSQL on Linux + Nginx`"]
+      J-->K["`Created new Portfolio website about skills and my Full Stack App`"]
+      end
+
+      subgraph four[Became Professional Full Stack Engineer]
+        L["`Full Stack at Orbit Irrigation, using Clojure and ClojureScript`"]-->M["`Full Stack + Cloud, at by Etumos, as Solutions Engineer, creating custom Marketo Integrations and Full Stack + Cloud Applications for clients`"]
+      end
+
+      subgraph five[Taking on DevOps and Technical Project Manager skills]
+        N["`Engineering Manager at CDK hired me as Full Stack, allowed me to train in Cloud Infra/DevOps.  Later, appointed to Technical Project Manager of a large migration project`"]
+      end
+
+
+      subgraph six[Possible Next Steps]
+        O["`Coming Soon`"]
       end
 
       E-->F
+      K-->L
+      M-->N
+      N-->O
 ```
