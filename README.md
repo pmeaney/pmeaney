@@ -63,16 +63,27 @@
 
 ```mermaid
   graph TD;
-      subgraph one[Example of how to Interweave three skillsets to enter a new career field]
+      subgraph one[Building initial Marketing experience]
         A["`CoFounded ReEnergize Texas and created two year Communication Campaign, passing Green Funds legislation`"]-->D;
-        BB["`Houghton Mifflin Harcourt: Digital Marketing Consultant (Campaign Design, Web Portal Design)`"]-->D
+
         B["`Event Marketing (Brand Ambassador promoting products at events for Ad Agencies)`"]-->D;
-        C["`Self-study Web Design & Graphic Design`"]-->DD;
-        DD["`Plastic-mart.com: Basic html & graphic editing`"]-->BB
+
+        C["`Self-study Web Design & Graphic Design`"]--> D["`Make web portfolio demonstrating Marketing skills (Digital, Traditional) helped me get first Digital Marketing roles`"]
+
+      end
+
+      D-->DD
+      D-->BB
+      D-->E
+
+      subgraph firstMarketing[First Digital Marketing roles]
+        DD["`Plastic-mart.com: Basic html & graphic editing`"]-->E
+        BB["`Houghton Mifflin Harcourt: Digital Marketing Consultant (Campaign Design, Web Portal Design)`"]-->E
+        E["`SolarWinds: First job using Marketo CRM (for organizing Digital Marketing campaigns)`"]-->F
       end
 
 
-      subgraph two[Moving from DigitalMarketing to Web Development]
+      subgraph two[Moving from Digital Marketing to Web Development]
         F["`BridgeTower Media: Marketing Manager for two business journals`"]-->G
         G["`Continue to Self-study Full Stack Web Development Skills`"]-->I
         H["`CIS courses in Grad School resulting in Data Engineering Skills (Statistics MLR Project in R, Database Design)`"]-->I
@@ -96,10 +107,6 @@
         O["`Coming Soon`"]
       end
 
-
-      D["`Make web portfolio demonstrating Marketing skills (Digital, Traditional)`"]-->E["`SolarWinds: First job using Marketo CRM (for organizing Digital Marketing campaigns)`"]
-
-      E-->F
       E-->I
       E-->M
       K-->L
