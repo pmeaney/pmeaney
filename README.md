@@ -64,38 +64,44 @@
 ```mermaid
   graph TD;
       subgraph one[Example of how to Interweave three skillsets to enter a new career field]
-        A["`Communication Campaign`"]-->D;
-        B["`Event Marketing`"]-->D;
-        C["`Self-study Frontend Development`"]-->D;
+        A["`CoFounded ReEnergize Texas and created two year Communication Campaign, passing Green Funds legislation`"]-->D;
+        BB["`Houghton Mifflin Harcourt: Digital Marketing Consultant (Campaign Design, Web Portal Design)`"]-->D
+        B["`Event Marketing (Brand Ambassador promoting products at events for Ad Agencies)`"]-->D;
+        C["`Self-study Web Design & Graphic Design`"]-->DD;
+        DD["`Plastic-mart.com: Basic html & graphic editing`"]-->BB
       end
-      D["`Make web portfolio to demonstrate Digital Marketing-related Experience & skills`"]-->E["`Digital Marketing Job with Marketo CRM, at SolarWinds`"]
+
 
       subgraph two[Moving from DigitalMarketing to Web Development]
-        F["`Digital Marketing experience Marketo CRM`"]-->I
-        G["`Self-study Full Stack Web Development Skills`"]-->I
-        H["`Data Skills from formal coursework: Statistics, Database Design`"]-->I
-        I["`First Programming Job: Marketing Data Integration with Marketo and LiveChat`"]
+        F["`BridgeTower Media: Marketing Manager for two business journals`"]-->G
+        G["`Continue to Self-study Full Stack Web Development Skills`"]-->I
+        H["`CIS courses in Grad School resulting in Data Engineering Skills (Statistics MLR Project in R, Database Design)`"]-->I
+        I["`PulseSecure: First Programming Job -- Marketing Data Integration with Marketo and LiveChat`"]
       end
 
-    subgraph three[Sabbatical to build my own Full Stack App in order to demonstrate skillset]
-      I-->J["`Designed & Built Full Stack App - NodeJS, ReactJS, PostgreSQL on Linux + Nginx`"]
-      J-->K["`Created new Portfolio website about skills and my Full Stack App`"]
+      subgraph three[Sabbatical to build my own Full Stack App in order to demonstrate skillset]
+        I-->J["`Designed & Built Full Stack App - NodeJS, ReactJS, PostgreSQL on Linux + Nginx`"]
+        J-->K["`Created new Portfolio website about skills and my Full Stack App`"]
       end
 
       subgraph four[Became Professional Full Stack Engineer]
-        L["`Full Stack at Orbit Irrigation, using Clojure and ClojureScript`"]-->M["`Full Stack + Cloud, at by Etumos, as Solutions Engineer, creating custom Marketo Integrations and Full Stack + Cloud Applications for clients`"]
+        L["`Orbit Irrigation: Full Stack, using Clojure and ClojureScript`"]-->M["`Etumos: Full Stack + Cloud Infra, as Solutions Engineer, creating custom Marketo Integrations and Full Stack + Cloud Applications for clients`"]
       end
 
       subgraph five[Taking on DevOps and Technical Project Manager skills]
-        N["`Engineering Manager at CDK hired me as Full Stack, allowed me to train in Cloud Infra/DevOps.  Later, appointed to Technical Project Manager of a large migration project`"]
+        N["`CDK Global: FullStack + Cloud Infra + DevOps + TPM.  Appointed to Technical Project Manager of a large migration project`"]
       end
-
 
       subgraph six[Possible Next Steps]
         O["`Coming Soon`"]
       end
 
+
+      D["`Make web portfolio demonstrating Marketing skills (Digital, Traditional)`"]-->E["`SolarWinds: First job using Marketo CRM (for organizing Digital Marketing campaigns)`"]
+
       E-->F
+      E-->I
+      E-->M
       K-->L
       M-->N
       N-->O
