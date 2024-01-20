@@ -63,7 +63,7 @@
 
 ```mermaid
   graph TD;
-      subgraph one[Building initial Marketing experience]
+      subgraph one[Building initial Marketing experience via Campaign, Event, Web skills]
         A["`CoFounded ReEnergize Texas and created two year Communication Campaign, passing Green Funds legislation`"]-->D;
 
         B["`Event Marketing (Brand Ambassador promoting products at events for Ad Agencies)`"]-->D;
@@ -103,13 +103,25 @@
         N["`CDK Global: FullStack + Cloud Infra + DevOps + TPM.  Appointed to Technical Project Manager of a large migration project`"]
       end
 
-      subgraph six[Possible Next Steps]
-        O["`Coming Soon`"]
+      subgraph six[Next Career Move]
+        O["`Sales Engineer?`"]
+        P["`Go To Market SaaS Consultant?`"]
+        Q["`Full Stack App Engineer?`"]
+        R["`Cloud Infra/DevOps Engineer?`"]
+        S["`Technical Project Manager?`"]
+        T["`Product Manager?`"]
+      end
+
+      subgraph seven[Side Projects]
+        W["`Certs in PMP, Kubernetes, Cloud?`"]
+        X["`New Web Portfolio with blog + docs?`"]
+        Y["`Build My Own Projects?`"]
       end
 
       E-->I
       E-->M
       K-->L
       M-->N
-      N-->O
+      five-->six
+      five-->seven
 ```
