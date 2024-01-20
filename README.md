@@ -121,7 +121,7 @@
       E-->I
       E-->M
       K-->L
-      M-->N
+      four-->five
       five-->six
       five-->seven
 ```
