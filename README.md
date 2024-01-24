@@ -20,6 +20,9 @@
     <br> Bear with me-- just started it, have not formatted it yet</li>
   <li><a href="https://pmeaney.com/" target="blank">My Portfolio &amp; Background</a>
     <br>It's hurtin' for an update.  One is coming soon-- via NextJS + TailwindCSS</li>
+    
+  <li><a href="https://github.com/pmeaney/roadcodeshowed" target="blank">"The Road Code Showed"</a>
+    <br>an upcoming educational project about how to become a software developer, from scratch, without a degree</li>
   <li><a href="https://linkedin.com/in/pmeaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pmeaney" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://codesandbox.com/pmeaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pmeaney" height="30" width="40" /></a></li></ul></p>
 
 
