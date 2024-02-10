@@ -5,7 +5,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmeaney&show_icons=true&locale=en" alt="pmeaney" /></p> -->
 
-- 🔭 I’m currently working on **interview processes** (January 2024)
+- 🔭 I’m currently working on **side hustle (consultancy projects), interviews (Sales Engineer, Solutions Engineer, Product Manager, Technical Project Manager)** (Feb 2024)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Systems Design, NextJS (+ TailwindCSS), Krita (+ AI Diffusion), Python OOP**
 
