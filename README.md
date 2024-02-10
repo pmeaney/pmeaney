@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS (+ TailwindCSS), Strapi CMS** Backburner: Data Structures & Algorithms, Systems Design, Python OOP**
 
-- 👯 I’m looking to collaborate on **a global live-streaming comedy concept at SXSW 2025**
+- 👯 I’m looking to collaborate on **Agri-tech projects**
 
 - 💬 Ask me about **my interest in building a in-person & digital communities** centered around growth, nature, agriculture, and technology
 
