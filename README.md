@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **side hustle (consultancy projects), interviews (Sales Engineer, Solutions Engineer, Product Manager, Technical Project Manager)** (Feb 2024)
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Systems Design, NextJS (+ TailwindCSS), Krita (+ AI Diffusion), Python OOP**
+- 🌱 I’m currently learning **NextJS (+ TailwindCSS), Strapi CMS** Backburner: Data Structures & Algorithms, Systems Design, Python OOP**
 
 - 👯 I’m looking to collaborate on **a global live-streaming comedy concept at SXSW 2025**
 
