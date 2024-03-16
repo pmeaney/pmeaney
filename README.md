@@ -1,5 +1,3 @@
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pmeaney" alt="GitHub Streak" /></a>
-
 <h1 align="center">Hi, I'm Patrick</h1>
 <h3 align="center">A creative web app/cloud engineer, and marketer, with an interest in organic agriculture, communities, and comedy.</h3>
 
@@ -130,3 +128,5 @@
       five-->six
       five-->seven
 ```
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pmeaney" alt="GitHub Streak" /></a>
