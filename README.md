@@ -1,3 +1,5 @@
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pmeaney" alt="GitHub Streak" /></a>
+
 <h1 align="center">Hi, I'm Patrick</h1>
 <h3 align="center">A creative web app/cloud engineer, and marketer, with an interest in organic agriculture, communities, and comedy.</h3>
 
@@ -58,7 +60,7 @@
 
 <h3 align="left">Productivity Tools & Systems</h3><p align="left"><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="40" /></a><a href="https://graduate.northeastern.edu/resources/agile-vs-scrum/" target="_blank" rel="noreferrer"><img alt="Scrum & Agile" src="https://banner2.cleanpng.com/20180516/rzw/kisspng-agile-software-development-scrum-computer-icons-ag-5afc42d5ddc678.9721919515264816219084.jpg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer"><img alt="Microsoft Sharepoint" src="https://www.motivosity.com/static/602aea6e6d8e0d415f5fa20c6a6454cf/7a8b1/sharepoint.png" height="40" width="40"/></a>&nbsp;&nbsp;<a href="https://drive.google.com" target="_blank" rel="noreferrer"><img alt="Google Drive" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/240px-Google_Drive_logo.png" height="40" width="40" /></a>&nbsp;&nbsp;</p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pmeaney" alt="GitHub Streak" /></a>
+
 
 <h3>My Career Progression</h3>
 <p>via <a href="https://mermaid.js.org/syntax/flowchart.html" target="_blank">MermaidJS diagram</a></p>
