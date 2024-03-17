@@ -19,7 +19,7 @@
   <!-- <li><a href="https://docusaurus-blog-j24.vercel.app/" target="blank">My Docusaurus Docs & Blog</a>
     <br> Bear with me-- just started it, have not formatted it yet</li> -->
   <li><a href="https://pmeaney.com/" target="blank">My Portfolio &amp; Background</a>
-    <br>It's hurtin' for an update.  One is coming soon-- via NextJS + TailwindCSS</li>
+    <br>It's hurtin' for an update.  One is coming soon</li>
     
   <li><a href="https://github.com/pmeaney/roadcodeshowed" target="blank">"The Road Code Showed"</a>
     <br>an upcoming educational project about how to become a software developer, from scratch, without a degree</li>
