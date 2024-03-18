@@ -26,13 +26,14 @@
   <li><a href="https://linkedin.com/in/pmeaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pmeaney" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://codesandbox.com/pmeaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pmeaney" height="30" width="40" /></a></li></ul></p>
 
 
-<h3 align="left">Featured Tools</h3>
+<hr>
+<h2 align="left">Featured Tools</h2>
 <p align="left">
   
   <li><a href="https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df" target="blank">ZShell with Oh-my-zsh and plugins</a>
     <br>This is my favorite macos & linux shell setup-- It includes autosuggesions, auto-complete, and syntax highlighting.  The autosuggesion feature is amazing-- the shell automatically looks up and presents a list of all currently possible commands</li>
   </ul></p>
-
+<hr>
 
 
 
