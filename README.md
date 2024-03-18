@@ -30,8 +30,7 @@
 <h2 align="left">Featured Tools</h2>
 <p align="left">
   
-  <li><a href="https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df" target="blank">ZShell with Oh-my-zsh and plugins</a> <a href="https://github.com/wting/autojump" target="blank">plus autojump</a> 
-    
+  <li><a href="https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df" target="blank">ZShell with Oh-my-zsh and plugins</a> <a href="https://github.com/wting/autojump" target="blank">plus autojump</a>
     <br>This is my favorite macos & linux shell setup-- It includes autosuggesions, auto-complete, and syntax highlighting.  The autosuggesion feature is amazing-- the shell automatically looks up and presents a list of all currently possible commands.  I also install autojump.</li>
   </ul></p>
 <hr>
