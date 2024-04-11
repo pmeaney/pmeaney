@@ -27,7 +27,7 @@
     <br>an upcoming educational project about how to become a software developer, from scratch, without a degree</li>
   <li><a href="https://linkedin.com/in/pmeaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pmeaney" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://codesandbox.com/pmeaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pmeaney" height="30" width="40" /></a></li></ul></p>
 
-
+<!--
 <hr>
 <h2 align="left">Featured Tools</h2>
 <p align="left">
@@ -36,6 +36,7 @@
     <br>This is my favorite macos & linux shell setup-- It includes autosuggesions, auto-complete, and syntax highlighting.  The autosuggesion feature is amazing-- the shell automatically looks up and presents a list of all currently possible commands.  I also install autojump.</li>
   </ul></p>
 <hr>
+-->
 
 
 
