@@ -5,6 +5,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmeaney&show_icons=true&locale=en" alt="pmeaney" /></p> -->
 
+<!-- 
 - 🔭 I’m currently working on **side hustle (consultancy projects), interviews (Sales Engineer, Solutions Engineer, Product Manager, Technical Project Manager)** (Feb 2024)
 
 - 🌱 I’m currently learning **NextJS (+ TailwindCSS), Strapi CMS** Backburner: Data Structures & Algorithms, Systems Design, Python OOP**
@@ -12,6 +13,7 @@
 - 👯 I’m looking to collaborate on **Agri-tech projects**
 
 - 💬 Ask me about **my interest in building a in-person & digital communities** centered around growth, nature, agriculture, and technology
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
