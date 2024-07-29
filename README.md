@@ -73,16 +73,6 @@
 
 <h3 align="left">Productivity Tools & Systems</h3><p align="left"><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="40" /></a><a href="https://graduate.northeastern.edu/resources/agile-vs-scrum/" target="_blank" rel="noreferrer"><img alt="Scrum & Agile" src="https://banner2.cleanpng.com/20180516/rzw/kisspng-agile-software-development-scrum-computer-icons-ag-5afc42d5ddc678.9721919515264816219084.jpg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer"><img alt="Microsoft Sharepoint" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg" height="40" width="40"/></a>&nbsp;&nbsp;<a href="https://drive.google.com" target="_blank" rel="noreferrer"><img alt="Google Drive" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/240px-Google_Drive_logo.png" height="40" width="40" /></a>&nbsp;&nbsp;</p>
 
-
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pmeaney&theme=solarized" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pmeaney&theme=solarized&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pmeaney&theme=solarized&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pmeaney&theme=solarized&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmeaney&theme=solarized" height="180em" alt="Commitments"/>
-</div>
-
-
 <h3>My Career Progression</h3>
 <p>via <a href="https://mermaid.js.org/syntax/flowchart.html" target="_blank">MermaidJS diagram</a></p>
 
