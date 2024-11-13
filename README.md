@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Patrick</h1>
-<h3 align="center">A creative web app/cloud engineer focused on the NodeJS, Python, AWS, Container Orchestration & CNCF ecosystems.</h3>
+<h3 align="center">A creative web app/cloud engineer focused on the NodeJS, Python, AWS & GCP, Container Orchestration, & CNCF ecosystems.</h3>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmeaney&show_icons=true&locale=en&layout=compact" alt="pmeaney" /></p> -->
 
