@@ -141,8 +141,3 @@
       five-->six
       five-->seven
 ```
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmeaney&layout=compact&langs_count=10&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmeaney&show_icons=true&theme=radical)
