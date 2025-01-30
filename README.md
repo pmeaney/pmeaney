@@ -144,8 +144,3 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pmeaney" alt="GitHub Streak" /></a>
 
-<p align="center">
-	<a href="https://profile.codersrank.io/user/macmade#Tech%20Skills">
-		<img width="800em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pmeaney&padding=10&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true&bg=eeeeee" />
-	</a>
-</p>
