@@ -124,12 +124,11 @@
         P["`Go To Market SaaS Consultant?`"]
         Q["`Full Stack App Engineer?`"]
         R["`Cloud Infra/DevOps Engineer?`"]
-        S["`Technical Project Manager?`"]
         T["`Product Manager?`"]
       end
 
       subgraph seven[Side Projects]
-        W["`Certs in PMP, Kubernetes, Cloud?`"]
+        W["`Certs in Kubernetes, AWS, GCP?`"]
         X["`New Web Portfolio with blog + docs?`"]
         Y["`Build My Own Projects?`"]
       end
