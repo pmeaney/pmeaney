@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **my interest in building a in-person & digital communities** centered around growth, nature, agriculture, and technology
 -->
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <ul> 
