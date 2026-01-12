@@ -20,7 +20,7 @@
   <ul> 
 
   <li><a href="https://codesandbox.com/pmeaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pmeaney" height="30" width="40" /></a></li></ul></p>
-
+-->
 <!--
 <hr>
 <h2 align="left">Featured Tools</h2>
